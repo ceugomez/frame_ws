@@ -4,3 +4,6 @@
 [submodule "src/PX4-Autopilot-FRAME"]
 	path = src/PX4-Autopilot-FRAME
 	url = git@github.com:ceugomez/PX4-Autopilot-FRAME.git
+[submodule "src/px4_msgs"]
+	path = src/px4_msgs
+	url = git@github.com:PX4/px4_msgs.git
