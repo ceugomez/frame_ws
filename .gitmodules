@@ -1,15 +1,10 @@
-[submodule "frame_ws"]
-	path = frame_ws
-	url = git@github.com:ceugomez/frame_ws.git
-[submodule "src/PX4-Autopilot-FRAME"]
-	path = src/PX4-Autopilot-FRAME
-	url = git@github.com:ceugomez/PX4-Autopilot-FRAME.git
 [submodule "src/px4_msgs"]
 	path = src/px4_msgs
 	url = git@github.com:PX4/px4_msgs.git
-[submodule "src/PX4-Autopilot"]
-	path = src/PX4-Autopilot
-	url = https://github.com/PX4/PX4-Autopilot.git
 [submodule "src/PX4-Autopilot-Frame"]
 	path = src/PX4-Autopilot-Frame
 	url = git@github.com:ceugomez/PX4-Autopilot-Frame
+[submodule "src/Micro-XRCE-DDS-Agent"]
+	path= src/Micro-XRCE-DDS-Agent
+	url= git@github.com:eProsima/Micro-XRCE-DDS-Agent.git
+
