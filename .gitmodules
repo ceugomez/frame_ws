@@ -8,3 +8,6 @@
 	path= src/Micro-XRCE-DDS-Agent
 	url= git@github.com:eProsima/Micro-XRCE-DDS-Agent.git
 
+[submodule "src/px4_ros_com"]
+	path = src/px4_ros_com
+	url = git@github.com:PX4/px4_ros_com

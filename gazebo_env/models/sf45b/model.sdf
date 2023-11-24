@@ -24,7 +24,7 @@
       </visual>
       <!-- ray sensor-->
       <sensor name="sensor_ray" type="ray">
-      <visualize>true</visualize>
+        <visualize>true</visualize>
         <ray>
           <pose> 0 0 0.001 0 0 0 </pose>
           <scan>
