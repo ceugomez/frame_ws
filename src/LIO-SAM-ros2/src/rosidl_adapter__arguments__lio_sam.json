@@ -1,7 +1,0 @@
-{
-  "package_name": "lio_sam",
-  "non_idl_tuples": [
-    "/home/ceu/frame_ws/src/LIO-SAM-ros2:msg/CloudInfo.msg",
-    "/home/ceu/frame_ws/src/LIO-SAM-ros2:srv/SaveMap.srv"
-  ]
-}
