@@ -11,3 +11,6 @@
 [submodule "src/px4_ros_com"]
 	path = src/px4_ros_com
 	url = git@github.com:PX4/px4_ros_com
+[submodule "src/lightware"]
+	path = src/lightware
+	url = https://github.com/LightWare-Optoelectronics/lightwarelidar.git
